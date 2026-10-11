@@ -191,6 +191,3 @@ The final question can be used to test how the application handles information t
 - Implement a web-based user interface.
 - Explore conversation history and follow-up questions.
 
-## License
-
-Add a license before distributing or reusing this project publicly.
